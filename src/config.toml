@@ -1,0 +1,8 @@
+[telegram_settings]
+api_token = "" # сюда токен
+admin_chat_id = "" # сюда id админа
+
+[telegram_messages]
+info_message = '''
+
+'''
